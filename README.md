@@ -1,7 +1,7 @@
 # Scheduling project #
 
- [!NOTE]
-- [ ] The whole project should be added to my GitHub Repo.
+
+- [x] The whole project should be added to my GitHub Repo.
 
 The idea is to keep my study data and later find applications for it. Possibilities are:
 - Making an auto post calender respeting the input data.
