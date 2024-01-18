@@ -1,6 +1,6 @@
-# Scheduleing project #
+# Scheduling project #
 
-> [!NOTE]
+ [!NOTE]
 - [ ] The whole project should be added to my GitHub Repo.
 
 The idea is to keep my study data and later find applications for it. Possibilities are:
